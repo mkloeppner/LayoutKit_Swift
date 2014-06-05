@@ -1,0 +1,10 @@
+Pods
+Podfile.lock
+.DS_Store
+.idea/
+
+LayoutKit.xcodeproj/xcuserdata
+LayoutKit.xcodeproj/project.xcworkspace/xcuserdata/
+LayoutKit.xcworkspace/
+LayoutKit.xcodeproj/project.xcworkspace/
+
